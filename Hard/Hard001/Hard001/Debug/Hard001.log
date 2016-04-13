@@ -1,0 +1,4 @@
+﻿  Main.cpp
+d:\workspace\hard001\hard001\main.cpp(52): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Hard001.vcxproj -> D:\workspace\Hard001\Debug\Hard001.exe
+  Hard001.vcxproj -> D:\workspace\Hard001\Debug\Hard001.pdb (Partial PDB)
