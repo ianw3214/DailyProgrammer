@@ -1,0 +1,4 @@
+﻿  Main.cpp
+d:\workspace\easy018\easy018\main.cpp(18): warning C4018: '<': signed/unsigned mismatch
+  Easy018.vcxproj -> D:\workspace\Easy018\Debug\Easy018.exe
+  Easy018.vcxproj -> D:\workspace\Easy018\Debug\Easy018.pdb (Partial PDB)
