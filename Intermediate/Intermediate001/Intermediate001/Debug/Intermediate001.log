@@ -1,6 +1,0 @@
-﻿  Main.cpp
-d:\workspace\intermediate001\intermediate001\main.cpp(160): warning C4018: '<': signed/unsigned mismatch
-d:\workspace\intermediate001\intermediate001\main.cpp(174): warning C4018: '<': signed/unsigned mismatch
-d:\workspace\intermediate001\intermediate001\main.cpp(175): warning C4018: '<': signed/unsigned mismatch
-  Intermediate001.vcxproj -> D:\workspace\Intermediate001\Debug\Intermediate001.exe
-  Intermediate001.vcxproj -> D:\workspace\Intermediate001\Debug\Intermediate001.pdb (Partial PDB)

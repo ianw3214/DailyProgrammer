@@ -1,4 +1,0 @@
-﻿  Main.cpp
-d:\workspace\easy004\easy004\main.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Easy004.vcxproj -> D:\workspace\Easy004\Debug\Easy004.exe
-  Easy004.vcxproj -> D:\workspace\Easy004\Debug\Easy004.pdb (Partial PDB)
